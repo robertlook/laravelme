@@ -29,3 +29,5 @@ All laravel Help Link
 
 
 **[CRUD Operations In Laravel](https://www.phpcodingstuff.com/blog/crud-operations-in-laravel-php-framework.html)**
+
+**[jquery plugin for country state city dropdown](https://www.phpcodingstuff.com/blog/country-state-city-dropdown-list-in-php.html)**
