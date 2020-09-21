@@ -33,3 +33,5 @@ All laravel Help Link
 **[jquery plugin for country state city dropdown](https://www.phpcodingstuff.com/blog/country-state-city-dropdown-list-in-php.html)**
 
 **[[Laravel 8 Auth with Livewire Jetstream scaffolding] - Step by Step](https://www.phpcodingstuff.com/blog/laravel-8-auth-with-livewire-jetstream-tutorial.html)**
+
+**[[Crop and Save] Image using jQuery Coppie in Codeigniter- Step by Step](https://www.phpcodingstuff.com/blog/crop-and-save-image-using-jquery-coppie-in-codeigniter.html)**
