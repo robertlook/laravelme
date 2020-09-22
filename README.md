@@ -35,3 +35,5 @@ All laravel Help Link
 **[[Laravel 8 Auth with Livewire Jetstream scaffolding] - Step by Step](https://www.phpcodingstuff.com/blog/laravel-8-auth-with-livewire-jetstream-tutorial.html)**
 
 **[[Crop and Save] Image using jQuery Coppie in Codeigniter- Step by Step](https://www.phpcodingstuff.com/blog/crop-and-save-image-using-jquery-coppie-in-codeigniter.html)**
+
+**[How to remove [public/index.php] URL in Codeigniter 4 - Step By Step](https://www.phpcodingstuff.com/blog/how-to-remove-publicindexphp-from-url-in-codeigniter-4.html)**
