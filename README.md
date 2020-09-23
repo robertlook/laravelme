@@ -37,3 +37,5 @@ All laravel Help Link
 **[[Crop and Save] Image using jQuery Coppie in Codeigniter- Step by Step](https://www.phpcodingstuff.com/blog/crop-and-save-image-using-jquery-coppie-in-codeigniter.html)**
 
 **[How to remove [public/index.php] URL in Codeigniter 4 - Step By Step](https://www.phpcodingstuff.com/blog/how-to-remove-publicindexphp-from-url-in-codeigniter-4.html)**
+
+**[[Codeigniter 4] REST API Tutorial with Example - Step by Step](https://www.phpcodingstuff.com/blog/codeigniter-4-rest-api-tutorial-with-example.html)**
