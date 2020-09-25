@@ -43,3 +43,5 @@ All laravel Help Link
 **[[Pagination- Laravel 8] Web Artisans (CLI) Step By Step Example](https://www.phpcodingstuff.com/blog/laravel-8-pagination-example-tutorial.html)**
 
 **[How to send Email in [Laravel 8 using Gmail SMTP] ](https://www.phpcodingstuff.com/blog/how-to-send-email-in-laravel-8-with-smtp.html)**
+
+**[[Reset Password Link Send] Email Using PHP - Step By Step](https://www.phpcodingstuff.com/blog/send-reset-password-link-email-php.html)**
