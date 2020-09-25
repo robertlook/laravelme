@@ -41,3 +41,5 @@ All laravel Help Link
 **[[Codeigniter 4] REST API Tutorial with Example - Step by Step](https://www.phpcodingstuff.com/blog/codeigniter-4-rest-api-tutorial-with-example.html)**
 
 **[[Pagination- Laravel 8] Web Artisans (CLI) Step By Step Example](https://www.phpcodingstuff.com/blog/laravel-8-pagination-example-tutorial.html)**
+
+**[How to send Email in [Laravel 8 using Gmail SMTP] ](https://www.phpcodingstuff.com/blog/how-to-send-email-in-laravel-8-with-smtp.html)**
