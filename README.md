@@ -45,3 +45,5 @@ All laravel Help Link
 **[How to send Email in [Laravel 8 using Gmail SMTP] ](https://www.phpcodingstuff.com/blog/how-to-send-email-in-laravel-8-with-smtp.html)**
 
 **[[Reset Password Link Send] Email Using PHP - Step By Step](https://www.phpcodingstuff.com/blog/send-reset-password-link-email-php.html)**
+
+**[[Laravel 8 PDF] Laravel 8 Generate PDF File using DomPDF- Step by Step](https://www.phpcodingstuff.com/blog/laravel-8-generate-pdf-file-using-dompdf.html)**
