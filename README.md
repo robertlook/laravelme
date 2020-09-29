@@ -49,3 +49,5 @@ All laravel Help Link
 **[[Laravel 8 PDF] Laravel 8 Generate PDF File using DomPDF- Step by Step](https://www.phpcodingstuff.com/blog/laravel-8-generate-pdf-file-using-dompdf.html)**
 
 **[[Multiple Image Upload] With Preview and Delete jQuery - Step by Step](https://www.phpcodingstuff.com/blog/multiple-image-upload-with-preview-and-delete-jquery.html)**
+
+**[How to Integrate google reCAPTCHA with PHP [With Example]-Step by Step](https://www.phpcodingstuff.com/blog/how-to-integrate-google-recaptcha-with-php-with-example.html)**
