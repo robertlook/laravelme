@@ -51,3 +51,5 @@ All laravel Help Link
 **[[Multiple Image Upload] With Preview and Delete jQuery - Step by Step](https://www.phpcodingstuff.com/blog/multiple-image-upload-with-preview-and-delete-jquery.html)**
 
 **[How to Integrate google reCAPTCHA with PHP [With Example]-Step by Step](https://www.phpcodingstuff.com/blog/how-to-integrate-google-recaptcha-with-php-with-example.html)**
+
+**[★★★★★ Star Rating System with jQuery, Ajax, PHP and MySQL](https://www.phpcodingstuff.com/blog/star-rating-system-with-jquery-ajax-php-and-mysql.html)**
