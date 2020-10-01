@@ -55,3 +55,5 @@ All laravel Help Link
 **[★★★★★ Star Rating System with jQuery, Ajax, PHP and MySQL](https://www.phpcodingstuff.com/blog/star-rating-system-with-jquery-ajax-php-and-mysql.html)**
 
 **[[Laravel 8 Multiple Images Upload] with Validation Example- Step by Step](https://www.phpcodingstuff.com/blog/laravel-8-multiple-images-upload-with-validation-example.html)**
+
+**[Create Contact Form in PHP 7 with jQuery Validation - Step by Step](https://www.phpcodingstuff.com/blog/create-contact-form-in-php-7-with-jquery-validation.html)**
