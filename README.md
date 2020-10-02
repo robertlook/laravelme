@@ -59,3 +59,5 @@ All laravel Help Link
 **[Create Contact Form in PHP 7 with jQuery Validation - Step by Step](https://www.phpcodingstuff.com/blog/create-contact-form-in-php-7-with-jquery-validation.html)**
 
 **[Laravel 8 [Rest API CRUD] with Passport Auth Tutorial | Laravel API](https://www.phpcodingstuff.com/blog/laravel-8-rest-api-crud-with-passport-auth-tutorial.html)**
+
+**[Using [Github authentication] for login with Laravel Socialite- Laravel 8](https://www.phpcodingstuff.com/blog/laravel-8-socialite-github-login-tutorial-example.html)**
