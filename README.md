@@ -63,3 +63,5 @@ All laravel Help Link
 **[Using [Github authentication] for login with Laravel Socialite- Laravel 8](https://www.phpcodingstuff.com/blog/laravel-8-socialite-github-login-tutorial-example.html)**
 
 **[How to Create [ Dynamic Xml Sitemap ] In Codeigniter With Example](https://www.phpcodingstuff.com/blog/how-to-create-dynamic-xml-sitemap-in-codeigniter.html)**
+
+**[[ Infinite Scroll ] Pagination in codeigniter Using Jquery And Ajax ](https://www.phpcodingstuff.com/blog/infinite-scroll-pagination-in-codeigniter-using-jquery-and-ajax.html)**
