@@ -65,3 +65,5 @@ All laravel Help Link
 **[How to Create [ Dynamic Xml Sitemap ] In Codeigniter With Example](https://www.phpcodingstuff.com/blog/how-to-create-dynamic-xml-sitemap-in-codeigniter.html)**
 
 **[[ Infinite Scroll ] Pagination in codeigniter Using Jquery And Ajax ](https://www.phpcodingstuff.com/blog/infinite-scroll-pagination-in-codeigniter-using-jquery-and-ajax.html)**
+
+**[How To Create [Dynamic Pagination] In PHP with MySQL example](https://www.phpcodingstuff.com/blog/how-to-create-pagination-with-php-and-mysql.html)**
