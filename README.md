@@ -67,3 +67,5 @@ All laravel Help Link
 **[[ Infinite Scroll ] Pagination in codeigniter Using Jquery And Ajax ](https://www.phpcodingstuff.com/blog/infinite-scroll-pagination-in-codeigniter-using-jquery-and-ajax.html)**
 
 **[How To Create [Dynamic Pagination] In PHP with MySQL example](https://www.phpcodingstuff.com/blog/how-to-create-pagination-with-php-and-mysql.html)**
+
+**[Autocomplete Search from Database Laravel 8](https://www.phpcodingstuff.com/blog/autocomplete-search-from-database-laravel-8.html)**
