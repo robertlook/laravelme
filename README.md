@@ -71,3 +71,6 @@ All laravel Help Link
 **[Autocomplete Search from Database Laravel 8](https://www.phpcodingstuff.com/blog/autocomplete-search-from-database-laravel-8.html)**
 
 **[Import Export Excel & CSV File Laravel 8 Tutorial with Example ](https://www.phpcodingstuff.com/blog/import-export-excel--csv-file-laravel-8-tutorial-with-example.html)**
+
+
+**[Laravel 8 Google+ API to Google Login with Laravel Socialite](https://www.phpcodingstuff.com/blog/simple-google-login-laravel-8-socialite.html)**
