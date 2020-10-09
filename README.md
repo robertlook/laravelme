@@ -74,3 +74,9 @@ All laravel Help Link
 
 
 **[Laravel 8 Google+ API to Google Login with Laravel Socialite](https://www.phpcodingstuff.com/blog/simple-google-login-laravel-8-socialite.html)**
+
+**[How to generate Sitemap in php | Dynamic XML Sitemap in Laravel 8](https://www.phpcodingstuff.com/blog/generate-dynamic-xml-sitemap-with-example-laravel-8.html)**
+
+**[How To Install / Download Codeigniter 4 Using Manual, Composer, etc.?](https://www.phpcodingstuff.com/blog/how-to-install-codeigniter-4-using-manual-composer-git.html)**
+
+**[How To Get Current Url In Laravel 8 ? | How To Get Url in PHP](https://www.phpcodingstuff.com/blog/how-to-get-current-url-with-parameters-laravel-8.html)**
