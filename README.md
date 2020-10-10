@@ -80,3 +80,5 @@ All laravel Help Link
 **[How To Install / Download Codeigniter 4 Using Manual, Composer, etc.?](https://www.phpcodingstuff.com/blog/how-to-install-codeigniter-4-using-manual-composer-git.html)**
 
 **[How To Get Current Url In Laravel 8 ? | How To Get Url in PHP](https://www.phpcodingstuff.com/blog/how-to-get-current-url-with-parameters-laravel-8.html)**
+
+**[Simple Drag and Drop File Upload using Dropzone JS - Laravel 8](https://www.phpcodingstuff.com/blog/simple-drag-and-drop-file-upload-using-dropzone-js.html)**
