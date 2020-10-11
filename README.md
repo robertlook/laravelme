@@ -82,3 +82,5 @@ All laravel Help Link
 **[How To Get Current Url In Laravel 8 ? | How To Get Url in PHP](https://www.phpcodingstuff.com/blog/how-to-get-current-url-with-parameters-laravel-8.html)**
 
 **[Simple Drag and Drop File Upload using Dropzone JS - Laravel 8](https://www.phpcodingstuff.com/blog/simple-drag-and-drop-file-upload-using-dropzone-js.html)**
+
+**[How to Create Multi Auth (Authentication) in Laravel 8 Tutorial ](https://www.phpcodingstuff.com/blog/how-to-create-multi-auth-authentication-in-laravel-8.html)**
