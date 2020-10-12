@@ -86,3 +86,5 @@ All laravel Help Link
 **[How to Create Multi Auth (Authentication) in Laravel 8 Tutorial ](https://www.phpcodingstuff.com/blog/how-to-create-multi-auth-authentication-in-laravel-8.html)**
 
 **[Middleware- Laravel 8- Use/Create the make: middleware Artisan command](https://www.phpcodingstuff.com/blog/how-to-use-create-middleware-laravel-8-example.html)**
+
+**[Cron Job Scheduler | cron job syntax | How to setup cron job in laravel](https://www.phpcodingstuff.com/blog/cron-job-scheduler--how-to-setup-a-cron-job-laravel-8.html)**
