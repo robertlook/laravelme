@@ -88,3 +88,5 @@ All laravel Help Link
 **[Middleware- Laravel 8- Use/Create the make: middleware Artisan command](https://www.phpcodingstuff.com/blog/how-to-use-create-middleware-laravel-8-example.html)**
 
 **[Cron Job Scheduler | cron job syntax | How to setup cron job in laravel](https://www.phpcodingstuff.com/blog/cron-job-scheduler--how-to-setup-a-cron-job-laravel-8.html)**
+
+**[Active Inactive Status Using Toggle Button/Slide laravel 8 ](https://www.phpcodingstuff.com/blog/active-inactive-status-using-toggle-buttonslide-laravel-8.html)**
