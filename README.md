@@ -90,3 +90,6 @@ All laravel Help Link
 **[Cron Job Scheduler | cron job syntax | How to setup cron job in laravel](https://www.phpcodingstuff.com/blog/cron-job-scheduler--how-to-setup-a-cron-job-laravel-8.html)**
 
 **[Active Inactive Status Using Toggle Button/Slide laravel 8 ](https://www.phpcodingstuff.com/blog/active-inactive-status-using-toggle-buttonslide-laravel-8.html)**
+
+
+**[[Lifetime Session] How to Increase Session Timeout Limit in Laravel 8?](https://www.phpcodingstuff.com/blog/how-to-increase-session-timeout-limit-in-laravel-8.html)**
