@@ -97,3 +97,7 @@ All laravel Help Link
 **[Livewire Laravel - File/Image Upload Using Livewire Laravel 8 ](https://www.phpcodingstuff.com/blog/fileimage-upload-using-livewire-laravel-8.html)**
 
 **[Livewire OnScroll [Load More] laravel example - phpcodingstuff.com](https://www.phpcodingstuff.com/blog/livewire-load-more-onscroll-tutorial-laravel-8.html)**
+
+**[Livewire Pagination  / How To Create Livewire Pagination Example](https://www.phpcodingstuff.com/blog/how-to-create-livewire-pagination-example-laravel-8.html)**
+
+**[How to send email in codeigniter using SMTP ? - phpcodingstuff.com](https://www.phpcodingstuff.com/blog/how-to-send-email-in-codeigniter-using-smtp.html)**
