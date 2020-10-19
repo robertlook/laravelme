@@ -101,3 +101,6 @@ All laravel Help Link
 **[Livewire Pagination  / How To Create Livewire Pagination Example](https://www.phpcodingstuff.com/blog/how-to-create-livewire-pagination-example-laravel-8.html)**
 
 **[How to send email in codeigniter using SMTP ? - phpcodingstuff.com](https://www.phpcodingstuff.com/blog/how-to-send-email-in-codeigniter-using-smtp.html)**
+
+
+**[How to integrate Instamojo payment gateway in laravel 8 - Step by Step](https://www.phpcodingstuff.com/blog/how-to-integrate-instamojo-payment-gateway-in-laravel-8.html)**
