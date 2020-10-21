@@ -108,3 +108,8 @@ All laravel Help Link
 **[Laravel 8 - How To Check Array Is Empty Or Not In Laravel Blade?](https://www.phpcodingstuff.com/blog/how-to-check-array-is-empty-or-not-in-laravel-8-blade.html)**
 
 **[[Stripe payment] How To Integrate Stripe Payment Gateway In Laravel 8?](https://www.phpcodingstuff.com/blog/how-to-integrate-stripe-payment-gateway-in-laravel-8.html)**
+
+
+**[How to Create Simple  Bar Chart In Codeigniter using AmCharts?](https://www.phpcodingstuff.com/blog/how-to-create-simple--bar-chart-in-codeigniter-using-amcharts.html)**
+
+**[DB Insert | Summernote Image Upload With Example Laravel 8](https://www.phpcodingstuff.com/blog/summernote-image-upload-with-example-laravel-8.html)**
