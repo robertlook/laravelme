@@ -115,3 +115,5 @@ All laravel Help Link
 **[DB Insert | Summernote Image Upload With Example Laravel 8](https://www.phpcodingstuff.com/blog/summernote-image-upload-with-example-laravel-8.html)**
 
 **[How to upload image using ckeditor in laravel 8](https://www.phpcodingstuff.com/blog/how-to-upload-image-using-ckeditor-in-laravel-8.html)**
+
+**[Razorpay Payment Gateway Integration Laravel 8 Example [Simple coding]](https://www.phpcodingstuff.com/blog/how-to-integrate-razorpay-payment-gateway-in-laravel-8.html)**
