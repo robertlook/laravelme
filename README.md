@@ -122,3 +122,5 @@ All laravel Help Link
 
 
 **[How To Convert CSV to JSON using PHP? ( Easy Way ) -Step by Step ](https://www.phpcodingstuff.com/blog/how-to-convert-csv-to-json-using-php.html)**
+
+**[How to Show Loading Spinner in jQuery | Use the ajaxStart()](https://www.phpcodingstuff.com/blog/how-to-show-loading-spinner-in-jquery.html)**
