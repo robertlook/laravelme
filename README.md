@@ -126,3 +126,9 @@ All laravel Help Link
 **[How to Show Loading Spinner in jQuery | Use the ajaxStart()](https://www.phpcodingstuff.com/blog/how-to-show-loading-spinner-in-jquery.html)**
 
 **[Login with Facebook using PHP [Step by Step] - PhpCodingStuff ](https://www.phpcodingstuff.com/blog/how-to-login-with-facebook-in-php-with-example.html)**
+
+**[Call JavaScript Function After Page Load Complete](https://www.phpcodingstuff.com/blog/call-javascript-function-after-page-load-complete.html)**
+
+**[Category Subcategory Dropdown In PHP MySQL Ajax With Example](https://www.phpcodingstuff.com/blog/category-subcategory-dropdown-in-php-mysql-ajax-with-example.html)**
+
+**[Login And Logout Code In Codeigniter With Example](https://www.phpcodingstuff.com/blog/login-and-logout-code-in-codeigniter-with-example.html)**
