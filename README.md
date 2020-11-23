@@ -134,3 +134,5 @@ All laravel Help Link
 **[Login And Logout Code In Codeigniter With Example](https://www.phpcodingstuff.com/blog/login-and-logout-code-in-codeigniter-with-example.html)**
 
 **[Search Data From Database In Codeigniter With Example - phpcodingstuff](https://www.phpcodingstuff.com/blog/search-data-from-database-in-codeigniter-with-example.html)**
+
+**[Paypal payment gateway integration in codeigniter with source code](https://www.phpcodingstuff.com/blog/paypal-payment-gateway-integration-in-codeigniter.html)**
