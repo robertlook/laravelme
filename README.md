@@ -138,3 +138,5 @@ All laravel Help Link
 **[Paypal payment gateway integration in codeigniter with source code](https://www.phpcodingstuff.com/blog/paypal-payment-gateway-integration-in-codeigniter.html)**
 
 **[How To Get Address From Latitude And Longitude Google Map Api ](https://www.phpcodingstuff.com/blog/how-to-get-address-from-latitude-and-longitude-google-map-api.html)**
+
+**[How To Fetch And Update Query In MySQL - PHP](https://www.phpcodingstuff.com/blog/how-to-fetch-and-update-query-in-mysql-php.html)**
