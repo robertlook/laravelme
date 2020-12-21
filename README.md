@@ -142,3 +142,7 @@ All laravel Help Link
 **[How To Fetch And Update Query In MySQL - PHP](https://www.phpcodingstuff.com/blog/how-to-fetch-and-update-query-in-mysql-php.html)**
 
 **[Insert Update Delete In PHP On Same Page Using Ajax - PHP Coding Stuff](https://www.phpcodingstuff.com/blog/insert-update-delete-in-php-on-same-page-using-ajax.html)**
+
+**[Autocomplete With Images And Custom HTML Code Using Jquery UI?](https://www.phpcodingstuff.com/blog/autocomplete-with-images-and-custom-html-code-using-jquery-ui.html)**
+
+**[How To Use Multi-Select Autocomplete JQuery With Example.](https://www.phpcodingstuff.com/blog/use-multi-select-autocomplete-jquery-with-example.html)**
