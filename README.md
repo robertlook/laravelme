@@ -146,3 +146,5 @@ All laravel Help Link
 **[Autocomplete With Images And Custom HTML Code Using Jquery UI?](https://www.phpcodingstuff.com/blog/autocomplete-with-images-and-custom-html-code-using-jquery-ui.html)**
 
 **[How To Use Multi-Select Autocomplete JQuery With Example.](https://www.phpcodingstuff.com/blog/use-multi-select-autocomplete-jquery-with-example.html)**
+
+**[How to get laravel version](https://www.phpcodingstuff.com/blog/4-ways-to-get-the-laravel-version.html)**
