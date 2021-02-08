@@ -156,3 +156,7 @@ All laravel Help Link
 **[Automatically Restart Your Node.js App Using Nodemon](https://www.phpcodingstuff.com/blog/automatically-restart-your-nodejs-app-using-nodemon.html)**
 
 **[How To Connect Mongoose (MongoDB) With Express Application](https://www.phpcodingstuff.com/blog/how-to-connect-mongoose-with-express-application.html)**
+
+**[How To Create Angular Components In Angular 10/11 Using CLI](https://www.phpcodingstuff.com/blog/how-to-create-angular-components-in-angular-using-cli.html)**
+
+**[How To Install Angular And Set Up First Angular Application ?](https://www.phpcodingstuff.com/blog/how-to-install-angular-and-set-up-first-angular-project.html)**
