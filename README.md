@@ -160,3 +160,5 @@ All laravel Help Link
 **[How To Create Angular Components In Angular 10/11 Using CLI](https://www.phpcodingstuff.com/blog/how-to-create-angular-components-in-angular-using-cli.html)**
 
 **[How To Install Angular And Set Up First Angular Application ?](https://www.phpcodingstuff.com/blog/how-to-install-angular-and-set-up-first-angular-project.html)**
+
+**[Angular Routes Complete Guide | How To Create Routes In Angular](https://www.phpcodingstuff.com/blog/angular-routes-complete-guide-how-to-create-routes-in-angular.html)**
