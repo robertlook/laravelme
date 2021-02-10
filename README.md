@@ -162,3 +162,5 @@ All laravel Help Link
 **[How To Install Angular And Set Up First Angular Application ?](https://www.phpcodingstuff.com/blog/how-to-install-angular-and-set-up-first-angular-project.html)**
 
 **[Angular Routes Complete Guide | How To Create Routes In Angular](https://www.phpcodingstuff.com/blog/angular-routes-complete-guide-how-to-create-routes-in-angular.html)**
+
+**[How To Connect MySQL Database With Expresss Js (Node.js)](https://www.phpcodingstuff.com/blog/how-to-connect-mysql-database-with-node-js.html)**
