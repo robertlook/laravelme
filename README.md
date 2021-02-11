@@ -164,3 +164,5 @@ All laravel Help Link
 **[Angular Routes Complete Guide | How To Create Routes In Angular](https://www.phpcodingstuff.com/blog/angular-routes-complete-guide-how-to-create-routes-in-angular.html)**
 
 **[How To Connect MySQL Database With Expresss Js (Node.js)](https://www.phpcodingstuff.com/blog/how-to-connect-mysql-database-with-node-js.html)**
+
+**[Create RESTful Api With MySQL Database, Node.js, Expressjs](https://www.phpcodingstuff.com/blog/create-restful-api-with-mysql-database-node-js-expressjs.html)**
