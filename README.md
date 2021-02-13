@@ -166,3 +166,7 @@ All laravel Help Link
 **[How To Connect MySQL Database With Expresss Js (Node.js)](https://www.phpcodingstuff.com/blog/how-to-connect-mysql-database-with-node-js.html)**
 
 **[Create RESTful Api With MySQL Database, Node.js, Expressjs](https://www.phpcodingstuff.com/blog/create-restful-api-with-mysql-database-node-js-expressjs.html)**
+
+**[Reactive Forms And Form Validation In Angular With Example](https://www.phpcodingstuff.com/blog/reactive-forms-and-form-validation-in-angular-with-example.html)**
+
+**[CRUD Operations In Express, Nodejs And MongoDB](https://www.phpcodingstuff.com/blog/crud-operations-in-express-nodejs-and-mongodb.html)**
