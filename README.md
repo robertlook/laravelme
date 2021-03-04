@@ -174,3 +174,18 @@ All laravel Help Link
 **[Adding Bootstrap To Angular 11 Project With CLI](https://www.phpcodingstuff.com/blog/adding-bootstrap-to-angular-11-project-with-cli.html)**
 
 **[Angular Material Tutorial With Example - Angular 11](https://www.phpcodingstuff.com/blog/angular-material-tutorial-with-example-angular-11.html)**
+
+**[How To Implement Angular Service With Example](https://www.phpcodingstuff.com/blog/how-to-implement-angular-service.html)**
+
+**[Create/Generate QR Codes In Angular 10/11](https://www.phpcodingstuff.com/blog/how-to-create-generate-qr-codes-in-angular.html)**
+
+**[Joining Two Collections In A Mongoose With Example](https://www.phpcodingstuff.com/blog/joining-two-collections-in-a-mongoose-with-example.html)**
+
+**[How To Change Angular Port From 4200 To Some Other Port Using CLI ?
+](https://www.phpcodingstuff.com/blog/how-to-change-angular-port-from-4200-to-some-other-port-using-cli.html)**
+
+**[How To Check If A Variable Is A String In JavaScript?](https://www.phpcodingstuff.com/blog/how-to-check-if-a-variable-is-a-string-in-javascript.html)**
+
+**[Authguard Angular Authentication Using Route Guards In Angular 11](https://www.phpcodingstuff.com/blog/authguard-angular-authentication-using-route-guards-in-angular-11.html)**
+
+**[Open Bootstrap Modal Popup With Dynamic Content Angular 11](https://www.phpcodingstuff.com/blog/open-bootstrap-modal-popup-with-dynamic-content-angular-11.html)**
