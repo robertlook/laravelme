@@ -189,3 +189,5 @@ All laravel Help Link
 **[Authguard Angular Authentication Using Route Guards In Angular 11](https://www.phpcodingstuff.com/blog/authguard-angular-authentication-using-route-guards-in-angular-11.html)**
 
 **[Open Bootstrap Modal Popup With Dynamic Content Angular 11](https://www.phpcodingstuff.com/blog/open-bootstrap-modal-popup-with-dynamic-content-angular-11.html)**
+
+**[6 Angular Best Practices That You Should Know About In 2021](https://www.phpcodingstuff.com/blog/top-6-angular-best-practices-that-you-should-know-about-in-2021.html)**
