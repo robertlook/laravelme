@@ -195,3 +195,5 @@ All laravel Help Link
 **[File Upload With Multer In Node.js And Express](https://www.phpcodingstuff.com/blog/file-upload-with-multer-in-nodejs-and-express.html)**
 
 **[How To Upload Multiple Image Using Multer In Node.js](phpcodingstuff.com/blog/how-to-upload-multiple-image-using-multer-in-node-js.html)**
+
+**[Node JS Resize Image Upload Using Multer Sharp With Example](https://www.phpcodingstuff.com/blog/node-js-resize-image-upload-using-multer-sharp-with-example.html)**
