@@ -197,3 +197,5 @@ All laravel Help Link
 **[How To Upload Multiple Image Using Multer In Node.js](phpcodingstuff.com/blog/how-to-upload-multiple-image-using-multer-in-node-js.html)**
 
 **[Node JS Resize Image Upload Using Multer Sharp With Example](https://www.phpcodingstuff.com/blog/node-js-resize-image-upload-using-multer-sharp-with-example.html)**
+
+**[How To Convert HTML Page To PDF In Angular 11?](https://www.phpcodingstuff.com/blog/how-to-convert-html-page-to-pdf-in-angular-11.html)**
