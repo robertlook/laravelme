@@ -199,3 +199,5 @@ All laravel Help Link
 **[Node JS Resize Image Upload Using Multer Sharp With Example](https://www.phpcodingstuff.com/blog/node-js-resize-image-upload-using-multer-sharp-with-example.html)**
 
 **[How To Convert HTML Page To PDF In Angular 11?](https://www.phpcodingstuff.com/blog/how-to-convert-html-page-to-pdf-in-angular-11.html)**
+
+**[How To Add Angular Material Carousel Angular 10/11](https://www.phpcodingstuff.com/blog/how-to-add-angular-material-carousel-angular.html)**
